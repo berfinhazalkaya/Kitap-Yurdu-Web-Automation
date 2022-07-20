@@ -27,7 +27,7 @@ aranına yazılacak roman kelimesi csv uzantılı dosyadan okunması gerekmekted
 - Maven (Genellikle Java platformunda yer alan komutların derlenmesi sırasında kullanılan otomasyon ve inşa aracıdır)
 - Cucumber(Cucumber, BDD (Behavior Driven Developmet) destekli bir test otomasyon yaklaşımıdır)
 - Gherkin (Gherkin bir plain-text language’dir. Yazılımcı olmayan kişiler tarafından öğrenilebilecek şekilde tasarlanmıştır)
-- Log4J (java tabanlı bir loglama kütüphanesidir)
+- Log4J (Java tabanlı bir loglama kütüphanesidir)
 
 ## Projenin Ayağa Kaldırılması
 - src/test/resources/testSuites/Parallel.xml dosyasından çalıştırılmalıdır.
