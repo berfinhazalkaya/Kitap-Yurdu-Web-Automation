@@ -33,7 +33,7 @@ aranına yazılacak roman kelimesi csv uzantılı dosyadan okunması gerekmekted
 - src/test/resources/testSuites/Parallel.xml dosyasından çalıştırılmalıdır.
 
 ## Video
-C:\Users\ASUS\Videos\Captures\TestiniumProject.mp4
+file:///C:/Users/ASUS/Videos/Captures/TestiniumProject.mp4
 
 ## Raporlar
 Raporlar(Cucumber Rapor ve Spark Rapor), Reports klasörünün içinde bulunmaktadır. 
